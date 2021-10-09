@@ -1,0 +1,20 @@
+{
+  "name": "ivanlulyf/bunnyphp-mailer",
+  "description": "Mailer for BunnyPHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Lu",
+      "email": "me@ivanlu.cn"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  },
+  "require": {
+    "ivanlulyf/bunnyphp": "^3"
+  }
+}
